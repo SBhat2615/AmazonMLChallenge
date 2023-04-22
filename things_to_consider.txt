@@ -1,4 +1,7 @@
 1. Different units used to measure length
 2. Folding of the product
 3. Products that expected in TEST data may not present in TRAIN data
-4. 
+4. Object count - 2 pieces of curtains...
+5. Some have used "in." in place of inches
+6. Some have used " i.e. double-quotation to represent inches
+7. 
