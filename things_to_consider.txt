@@ -1,3 +1,4 @@
 1. Different units used to measure length
 2. Folding of the product
-3. 
+3. Products that expected in TEST data may not present in TRAIN data
+4. 
