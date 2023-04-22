@@ -1,7 +1,20 @@
 1. Different units used to measure length
 2. Folding of the product
-3. Products that expected in TEST data may not present in TRAIN data
+3. Products that is present in TEST data may not present in TRAIN data
 4. Object count - 2 pieces of curtains...
 5. Some have used "in." in place of inches
 6. Some have used " i.e. double-quotation to represent inches
-7. 
+7. Shoes have different units of measurements, Cooker in L, 
+8. 12 x 18 inch notation, 12 x 8.46 x 0.99 inch.
+9. meter, cms
+10. Multiple products
+11. Fractional notation: 5/8"x70-7/8" 
+12. 
+
+Width:5/8"; Length:70-7/8"; Width:5/8&quot;; Length:70-7/8&quot;; 5/8&quot;x70-7/8&quot;
+K-Swiss 201 Classic Tennis Shoe (Infant/Toddler),Black/Black,5 M US Toddler ---> 5 M US is the size
+Size:17.5*11.5*8.5cm/6.9*4.5*3.3in<br>Weight: Approx.364g/12.8oz
+23" W x 13" D x 20" H
+23.8x13.7x21.7 inches (WxDxH)
+2.2_(5.4)cm, 2.4_(5.70)cm, 2.6_(6)cm, 2.8_(6.4)cm, 2.10_(6.67)cm, 2.12_(6.99)cm (NOTE: The 2.10 size and 2.9 size are similar sizes. But the 2.10 and 2.9 is Greater than 2.8 size ever.)
+Item Size: 150 * 125 * 63mm / 5.91 * 4.92 * 2.87in
